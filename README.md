@@ -15,7 +15,7 @@
 
 0x0 – [入门](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x0.md)
 
-0x0 – 入门 Pt.2
+0x0 – [入门 Pt.2](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x0(part%202).md)
 
 0×1 – 端口扫描
 
