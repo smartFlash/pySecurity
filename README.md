@@ -13,7 +13,7 @@
 
 这是一套python系列教程，学习本套教程不需要你有任何变成背景。教程由最简单的hello world到信息安全应用实例。逐个难点击破:
 
-0x0 – 入门
+0x0 – [入门](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x0.md)
 
 0x0 – 入门 Pt.2
 
