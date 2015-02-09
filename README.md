@@ -19,7 +19,7 @@
 
 0×1 – [端口扫描](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x1.md)
 
-0x2 – 逆向shell
+0x2 – [逆向shell](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x2.md)
 
 0x3 – 模糊测试
 
