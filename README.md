@@ -11,7 +11,7 @@
 >>>
 ```
 
-这是一套python系列教程，学习本套教程不需要你有任何变成背景。教程由最简单的hello world到信息安全应用实例。逐个难点击破:
+这是一套python系列教程，学习本套教程不需要你有任何编程背景。教程由最简单的hello world到信息安全应用实例。逐个难点击破:
 
 0x0 – [入门](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x0.md)
 
@@ -19,9 +19,9 @@
 
 0×1 – [端口扫描](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x1.md)
 
-0x2 – [逆向shell](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x2.md)
+0x2 – [反向shell](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x2.md)
 
-0x3 – 模糊测试
+0x3 – [模糊测试]((https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x3.md))
 
 0x4 – Python转exe
 
