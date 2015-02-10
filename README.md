@@ -21,9 +21,9 @@
 
 0x2 – [反向shell](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x2.md)
 
-0x3 – [模糊测试]((https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x3.md))
+0x3 – [模糊测试](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x3.md)
 
-0x4 – Python转exe
+0x4 – [Python转exe](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x4.md)
 
 0x5 – Web请求
 
