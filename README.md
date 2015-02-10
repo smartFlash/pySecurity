@@ -27,7 +27,7 @@
 
 0x5 – [Web请求](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x5.md)
 
-0x6 – 爬虫
+0x6 – [爬虫](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x6.md)
 
 0x7 – Web扫描和利用
 
