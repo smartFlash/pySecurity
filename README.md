@@ -29,7 +29,7 @@
 
 0x6 – [爬虫](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x6.md)
 
-0x7 – Web扫描和利用
+0x7 – [Web扫描和利用](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x7.md)
 
 0x8 – Whois查询
 
