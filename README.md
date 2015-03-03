@@ -33,7 +33,7 @@
 
 0x8 – [Whois查询](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x8.md)
 
-0x9 – 系统命令调用
+0x9 – [系统命令调用](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x9.md)
 
 0xA – Python版的Metasploit
 
