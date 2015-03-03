@@ -31,7 +31,7 @@
 
 0x7 – [Web扫描和利用](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x7.md)
 
-0x8 – Whois查询
+0x8 – [Whois查询](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x8.md)
 
 0x9 – 系统命令调用
 
