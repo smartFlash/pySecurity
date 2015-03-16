@@ -35,7 +35,7 @@
 
 0x9 – [系统命令调用](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x9.md)
 
-0xA – Python版的Metasploit
+0xA – [Python版的Metasploit](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x10.md)
 
 0xB – 伪终端
 
