@@ -37,7 +37,7 @@
 
 0xA – [Python版的Metasploit](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x10.md)
 
-0xB – 伪终端
+0xB – [伪终端](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x11.md)
 
 0xC – exp编写
 
