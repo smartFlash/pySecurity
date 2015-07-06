@@ -39,7 +39,7 @@
 
 0xB – [伪终端](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x11.md)
 
-0xC – exp编写
+0xC – [exp编写](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0xc.md)
 
 用例1: CVE-2014-6271
 
