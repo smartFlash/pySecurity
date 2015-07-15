@@ -41,7 +41,7 @@
 
 0xC – [exp编写](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0xc.md)
 
-用例1: CVE-2014-6271
+用例1: [CVE-2014-6271](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x13.md)
 
 用例2: CVE-2012-1823
 
