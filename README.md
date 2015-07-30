@@ -43,10 +43,10 @@
 
 用例1: [CVE-2014-6271](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x13.md)
 
-用例2: CVE-2012-1823
+用例2: [CVE-2012-1823](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x14.md)
 
-用例3: CVE-2012-3152
+用例3: [CVE-2012-3152](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x15.md)
 
-用例4: CVE-2014-3704
+用例4: [CVE-2014-3704](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x16.md)
 
 原文地址:http://www.primalsecurity.net/tutorials/python-tutorials/
