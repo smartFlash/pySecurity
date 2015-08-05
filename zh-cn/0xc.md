@@ -135,4 +135,4 @@ if __name__ == "__main__":
 
   [1]: https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x4.md
   [2]: https://www.trustedsec.com/files/RevShell_PoC_v1.py
-  [3]: https://github.com/smartFlash/pySecurity/blob/master/zh-cn/img/0xc.png
+  [3]: img/0xc.png
