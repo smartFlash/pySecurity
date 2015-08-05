@@ -1,5 +1,5 @@
 # Summary
 
-* [简介](README.md)
-* [入门](0x0.md)
+* [简介](README)
+* [入门](zh-cn/0x0.md)
 
