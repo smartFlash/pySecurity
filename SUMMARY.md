@@ -14,5 +14,5 @@
 * [系统命令调用](zh-cn/0x9.md)
 * [Python版的Metasploit](zh-cn/0x10.md)
 * [伪终端](zh-cn/0x11.m)
-* exp编写
+* [exp编写](zh-cn/0xc.md)
 
