@@ -13,5 +13,5 @@
 * [Whois查询](zh-cn/0x8.md)
 * [系统命令调用](zh-cn/0x9.md)
 * [Python版的Metasploit](zh-cn/0x10.md)
-* 伪终端
+* [伪终端](zh-cn/0x11.m)
 
