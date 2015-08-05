@@ -15,5 +15,5 @@
 * [Python版的Metasploit](zh-cn/0x10.md)
 * [伪终端](zh-cn/0x11.m)
 * [exp编写](zh-cn/0xc.md)
-* 用例1: CVE-2014-6271
+* [用例1: CVE-2014-6271](zh-cn/0x13.md)
 
