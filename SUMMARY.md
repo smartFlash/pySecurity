@@ -8,5 +8,5 @@
 * [模糊测试](zh-cn/0x3.md)
 * [Python转exe](zh-cn/0x4.md)
 * [Web请求](zh-cn/0x5.md)
-* 爬虫
+* [爬虫](zh-cn/0x6.md)
 
