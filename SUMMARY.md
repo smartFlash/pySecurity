@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [简介](README)
+* [简介](readme.md/readme.md)
 * [入门 Pt.2](zh-cn/0x02.md)
 * [端口扫描](zh-cn/0x1.md)
 * [反向shell](zh-cn/0x2.md)
