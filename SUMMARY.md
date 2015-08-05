@@ -13,7 +13,7 @@
 * [Whois查询](zh-cn/0x8.md)
 * [系统命令调用](zh-cn/0x9.md)
 * [Python版的Metasploit](zh-cn/0x10.md)
-* [伪终端](zh-cn/0x11.m)
+* [伪终端](zh-cn/0x11.md)
 * [exp编写](zh-cn/0xc.md)
 * [用例1: CVE-2014-6271](zh-cn/0x13.md)
 * [用例2: CVE-2012-1823](zh-cn/0x14.md)
