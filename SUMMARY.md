@@ -6,4 +6,5 @@
 * [端口扫描](zh-cn/0x1.md)
 * [反向shell](zh-cn/0x2.md)
 * [模糊测试](zh-cn/0x3.md)
+* Python转exe
 
