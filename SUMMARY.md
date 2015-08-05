@@ -7,4 +7,5 @@
 * [反向shell](zh-cn/0x2.md)
 * [模糊测试](zh-cn/0x3.md)
 * [Python转exe](zh-cn/0x4.md)
+* Web请求
 
