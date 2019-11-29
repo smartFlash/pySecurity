@@ -1,6 +1,7 @@
-##python系列教程(翻译)
 
-```
+## python系列教程(翻译)
+
+```python
 ~# python
 >>> import urllib
 >>> from bs4 import BeautifulSoup
